@@ -46,7 +46,7 @@ The system is built as a modular agent pipeline:
 ```
 Planner → Search → Fetch → Filter → Extract → Validate → Output
 ```
-<img src="architecture.png" alt="Architectural diagram of the process flow">
+<img src="agent-architecture.png" alt="Architectural diagram of the process flow">
 
 ### Components
 
